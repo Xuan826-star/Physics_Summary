@@ -1,0 +1,1 @@
+qdf=\dfrac{{\pi}d\cdot\left(2P\sqrt{\frac{9nf}{2gh}+\frac{b^2}{4P^2}}-b\right)^2\left(2Pbghr\sqrt{\frac{9nf}{2gh}+\frac{b^2}{4P^2}}+27P^2nf^2+9P^2nrf-b^2ghr\right)}{12P^4Vf^2\sqrt{\frac{9nf}{2gh}+\frac{b^2}{4P^2}}}
